@@ -11,7 +11,7 @@ This data is the boundries of watersheds in umatilla county that composed of 13
   one of the datasets that we use on our project (InterACTWEL). Our final project is
    a web based decision support system for adaptation planning between food, energy,
     and water (FEW)sectors using Nexus model. So we need different data that related to different actors.
-###
+
 
 #### Data detail:
 
@@ -23,7 +23,7 @@ This data is the boundries of watersheds in umatilla county that composed of 13
  |umatilla_simplified.geojason | 392        |
  |umatilla.topojson            | 105        |
 
- ![umatilla](img/umatilla.jpg)
+ ![umatilla](img/umatilla1.jpg)
 
  The limited nature of our shared resources drives the need for assistance
   to effectively coordinate demand, allocation, and efficient use of water,
